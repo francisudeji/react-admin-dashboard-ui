@@ -1,11 +1,12 @@
 import React from 'react'
+import Sidebar from './components/sidebar'
+import Main from './components/main'
 
 function App() {
   return (
-    <div className='App'>
-      <h1>Hello World</h1>
-      <h2>Hello World Again!</h2>
-      <h3>Hello World Again and Again!</h3>
+    <div className='container'>
+      <Sidebar />
+      <Main />
     </div>
   )
 }
