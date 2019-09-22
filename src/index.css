@@ -1,13 +1,40 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
-    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+@font-face {
+  font-family: 'FaktSoftPro-Medium';
+  src: url('/FaktSoftPro-Medium.woff') format('woff');
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
-    monospace;
+@font-face {
+  font-family: 'FaktSoftPro-Normal';
+  src: url('/FaktSoftPro-Normal.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'FaktSoftPro-Blond';
+  src: url('/FaktSoftPro-Blond.woff') format('woff');
+}
+
+html {
+  line-height: 1.15;
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+h1 {
+  font-size: 5rem;
+  font-family: 'FaktSoftPro-Medium';
+}
+
+h2 {
+  font-size: 5rem;
+  font-family: 'FaktSoftPro-Normal';
+}
+
+h3 {
+  font-size: 5rem;
+  font-family: 'FaktSoftPro-Blond';
 }
