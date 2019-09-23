@@ -21,7 +21,14 @@ module.exports = {
       },
       spacing: {
         '64.5': '16.5rem',
-        '25': '7rem'
+        '25': '7rem',
+        '100vh': '100vh'
+      },
+      screens: {
+        sm: '576px',
+        md: '768px',
+        lg: '992px',
+        xl: '1200px'
       }
     }
   },
