@@ -6,23 +6,25 @@ function Transfers() {
   return (
     <Layout name='Transfers'>
       <div className='content mt-10 bg-white rounded shadow-md'>
-        <div className='flex justify-end items-center px-8 py-4'>
+        <div className='flex justify-end items-center px-4 py-4 lg:px-8'>
           <button className='bg-green-500 text-white text-base mt-2 px-5 py-1 rounded flex items-center'>
             New transfer <FaChevronDown className='mt-1 ml-3' />
           </button>
         </div>
-        <div className='bg-light-gray py-4 px-8 flex justify-between items-center text-heading-blue'>
-          <div className='flex-1'>Reference</div>
-          <div className='w-1/2 flex justify-between items-center '>
-            <div className='text-lg w-1/2 text-right mr-20 '>Status</div>
-            <div className='text-lg w-1/2 text-right'>Amount</div>
+        <div className='bg-light-gray py-4 px-4 flex justify-between items-center text-heading-blue lg:px-8'>
+          <div className='w-1/3 lg:flex-1'>Reference</div>
+          <div className='w-2/3 flex justify-between items-center'>
+            <div className='lg:text-lg w-1/2 text-center lg:text-right lg:mr-20 '>
+              Status
+            </div>
+            <div className='lg:text-lg w-1/2 text-right'>Amount</div>
           </div>
         </div>
-        <div className='items-center flex flex-col justify-center pt-16 pb-64 text-dark-blue'>
-          <h2 className='text-2xl font-semibold'>
+        <div className='items-center flex flex-col justify-center pt-16 pb-32 text-dark-blue text-center lg:pb-56'>
+          <h2 className='text-2xl font-semibold block '>
             You haven't made any transfers yet
           </h2>
-          <p className='text-lg font-normal'>
+          <p className='lg:text-lg font-normal block'>
             You transfers will be displayed here.
           </p>
         </div>

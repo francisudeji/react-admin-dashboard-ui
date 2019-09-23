@@ -2,7 +2,7 @@ import React from 'react'
 import { Link } from 'react-router-dom'
 import { FaChevronDown, FaCreditCard, FaCode, FaCog } from 'react-icons/fa'
 
-function Sidebar({ name }) {
+function Sidebar({ name, isOpen }) {
   const className = pathname =>
     name.toLowerCase() === pathname
       ? 'text-link-green font-bold'
@@ -10,8 +10,10 @@ function Sidebar({ name }) {
 
   return (
     <aside
-      className='absolute top-0 left-0 h-100vh -ml-64.5 sidebar w-64.5 border-r-2 border-gray-300 p-4 lg:block lg:relative lg:ml-0'
-      style={{ transition: 'all 0.5s ease-in-out' }}
+      className={`h-100vh ${
+        !isOpen ? '-ml-17rem' : 'ml-0'
+      } w-17rem border-r-2 border-gray-300 p-4 lg:block lg:relative lg:ml-0`}
+      style={{ transition: 'all 0.2s ease-in-out' }}
     >
       <header className='flex pt-3'>
         <button className='w-8 h-8 bg-white shadow rounded text-sm font-semibold'>

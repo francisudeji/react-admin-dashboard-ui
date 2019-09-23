@@ -1,13 +1,16 @@
 import React from 'react'
 import { FaBell } from 'react-icons/fa'
 
-function Main({ children, name }) {
+function Main({ children, name, isOpen, setIsOpen }) {
   return (
     <main className='main flex-1 py-4'>
       <div className='w-11/12 lg:w-4/5 mx-auto'>
         <header className='flex flex-col lg:flex-row lg:justify-between lg:items-center'>
           <div className='flex items-center'>
-            <button className='text-darker-blue border border-darker-blue p-2 rounded mr-4 hover:text-white hover:bg-darker-blue focus:text-white focus:bg-darker-blue lg:hidden'>
+            <button
+              className='text-darker-blue border border-darker-blue p-2 rounded mr-4 hover:text-white hover:bg-darker-blue focus:text-white focus:bg-darker-blue lg:hidden'
+              onClick={() => setIsOpen(!isOpen)}
+            >
               <svg
                 className='fill-current h-4 w-4'
                 viewBox='0 0 20 20'
