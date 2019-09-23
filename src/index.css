@@ -4180,8 +4180,8 @@ body {
   height: 1px;
 }
 
-.h-64\.5 {
-  height: 16.5rem;
+.h-17rem {
+  height: 17rem;
 }
 
 .h-100vh {
@@ -4324,8 +4324,8 @@ body {
   margin: 1px;
 }
 
-.m-64\.5 {
-  margin: 16.5rem;
+.m-17rem {
+  margin: 17rem;
 }
 
 .m-100vh {
@@ -4408,8 +4408,8 @@ body {
   margin: -1px;
 }
 
-.-m-64\.5 {
-  margin: -16.5rem;
+.-m-17rem {
+  margin: -17rem;
 }
 
 .-m-100vh {
@@ -4626,14 +4626,14 @@ body {
   margin-right: 1px;
 }
 
-.my-64\.5 {
-  margin-top: 16.5rem;
-  margin-bottom: 16.5rem;
+.my-17rem {
+  margin-top: 17rem;
+  margin-bottom: 17rem;
 }
 
-.mx-64\.5 {
-  margin-left: 16.5rem;
-  margin-right: 16.5rem;
+.mx-17rem {
+  margin-left: 17rem;
+  margin-right: 17rem;
 }
 
 .my-100vh {
@@ -4836,14 +4836,14 @@ body {
   margin-right: -1px;
 }
 
-.-my-64\.5 {
-  margin-top: -16.5rem;
-  margin-bottom: -16.5rem;
+.-my-17rem {
+  margin-top: -17rem;
+  margin-bottom: -17rem;
 }
 
-.-mx-64\.5 {
-  margin-left: -16.5rem;
-  margin-right: -16.5rem;
+.-mx-17rem {
+  margin-left: -17rem;
+  margin-right: -17rem;
 }
 
 .-my-100vh {
@@ -5192,20 +5192,20 @@ body {
   margin-left: 1px;
 }
 
-.mt-64\.5 {
-  margin-top: 16.5rem;
+.mt-17rem {
+  margin-top: 17rem;
 }
 
-.mr-64\.5 {
-  margin-right: 16.5rem;
+.mr-17rem {
+  margin-right: 17rem;
 }
 
-.mb-64\.5 {
-  margin-bottom: 16.5rem;
+.mb-17rem {
+  margin-bottom: 17rem;
 }
 
-.ml-64\.5 {
-  margin-left: 16.5rem;
+.ml-17rem {
+  margin-left: 17rem;
 }
 
 .mt-100vh {
@@ -5528,20 +5528,20 @@ body {
   margin-left: -1px;
 }
 
-.-mt-64\.5 {
-  margin-top: -16.5rem;
+.-mt-17rem {
+  margin-top: -17rem;
 }
 
-.-mr-64\.5 {
-  margin-right: -16.5rem;
+.-mr-17rem {
+  margin-right: -17rem;
 }
 
-.-mb-64\.5 {
-  margin-bottom: -16.5rem;
+.-mb-17rem {
+  margin-bottom: -17rem;
 }
 
-.-ml-64\.5 {
-  margin-left: -16.5rem;
+.-ml-17rem {
+  margin-left: -17rem;
 }
 
 .-mt-100vh {
@@ -5892,8 +5892,8 @@ body {
   padding: 1px;
 }
 
-.p-64\.5 {
-  padding: 16.5rem;
+.p-17rem {
+  padding: 17rem;
 }
 
 .p-100vh {
@@ -6100,14 +6100,14 @@ body {
   padding-right: 1px;
 }
 
-.py-64\.5 {
-  padding-top: 16.5rem;
-  padding-bottom: 16.5rem;
+.py-17rem {
+  padding-top: 17rem;
+  padding-bottom: 17rem;
 }
 
-.px-64\.5 {
-  padding-left: 16.5rem;
-  padding-right: 16.5rem;
+.px-17rem {
+  padding-left: 17rem;
+  padding-right: 17rem;
 }
 
 .py-100vh {
@@ -6440,20 +6440,20 @@ body {
   padding-left: 1px;
 }
 
-.pt-64\.5 {
-  padding-top: 16.5rem;
+.pt-17rem {
+  padding-top: 17rem;
 }
 
-.pr-64\.5 {
-  padding-right: 16.5rem;
+.pr-17rem {
+  padding-right: 17rem;
 }
 
-.pb-64\.5 {
-  padding-bottom: 16.5rem;
+.pb-17rem {
+  padding-bottom: 17rem;
 }
 
-.pl-64\.5 {
-  padding-left: 16.5rem;
+.pl-17rem {
+  padding-left: 17rem;
 }
 
 .pt-100vh {
@@ -9204,8 +9204,8 @@ body {
   width: 1px;
 }
 
-.w-64\.5 {
-  width: 16.5rem;
+.w-17rem {
+  width: 17rem;
 }
 
 .w-100vh {
@@ -12919,8 +12919,8 @@ body {
     height: 1px;
   }
 
-  .sm\:h-64\.5 {
-    height: 16.5rem;
+  .sm\:h-17rem {
+    height: 17rem;
   }
 
   .sm\:h-100vh {
@@ -13063,8 +13063,8 @@ body {
     margin: 1px;
   }
 
-  .sm\:m-64\.5 {
-    margin: 16.5rem;
+  .sm\:m-17rem {
+    margin: 17rem;
   }
 
   .sm\:m-100vh {
@@ -13147,8 +13147,8 @@ body {
     margin: -1px;
   }
 
-  .sm\:-m-64\.5 {
-    margin: -16.5rem;
+  .sm\:-m-17rem {
+    margin: -17rem;
   }
 
   .sm\:-m-100vh {
@@ -13365,14 +13365,14 @@ body {
     margin-right: 1px;
   }
 
-  .sm\:my-64\.5 {
-    margin-top: 16.5rem;
-    margin-bottom: 16.5rem;
+  .sm\:my-17rem {
+    margin-top: 17rem;
+    margin-bottom: 17rem;
   }
 
-  .sm\:mx-64\.5 {
-    margin-left: 16.5rem;
-    margin-right: 16.5rem;
+  .sm\:mx-17rem {
+    margin-left: 17rem;
+    margin-right: 17rem;
   }
 
   .sm\:my-100vh {
@@ -13575,14 +13575,14 @@ body {
     margin-right: -1px;
   }
 
-  .sm\:-my-64\.5 {
-    margin-top: -16.5rem;
-    margin-bottom: -16.5rem;
+  .sm\:-my-17rem {
+    margin-top: -17rem;
+    margin-bottom: -17rem;
   }
 
-  .sm\:-mx-64\.5 {
-    margin-left: -16.5rem;
-    margin-right: -16.5rem;
+  .sm\:-mx-17rem {
+    margin-left: -17rem;
+    margin-right: -17rem;
   }
 
   .sm\:-my-100vh {
@@ -13931,20 +13931,20 @@ body {
     margin-left: 1px;
   }
 
-  .sm\:mt-64\.5 {
-    margin-top: 16.5rem;
+  .sm\:mt-17rem {
+    margin-top: 17rem;
   }
 
-  .sm\:mr-64\.5 {
-    margin-right: 16.5rem;
+  .sm\:mr-17rem {
+    margin-right: 17rem;
   }
 
-  .sm\:mb-64\.5 {
-    margin-bottom: 16.5rem;
+  .sm\:mb-17rem {
+    margin-bottom: 17rem;
   }
 
-  .sm\:ml-64\.5 {
-    margin-left: 16.5rem;
+  .sm\:ml-17rem {
+    margin-left: 17rem;
   }
 
   .sm\:mt-100vh {
@@ -14267,20 +14267,20 @@ body {
     margin-left: -1px;
   }
 
-  .sm\:-mt-64\.5 {
-    margin-top: -16.5rem;
+  .sm\:-mt-17rem {
+    margin-top: -17rem;
   }
 
-  .sm\:-mr-64\.5 {
-    margin-right: -16.5rem;
+  .sm\:-mr-17rem {
+    margin-right: -17rem;
   }
 
-  .sm\:-mb-64\.5 {
-    margin-bottom: -16.5rem;
+  .sm\:-mb-17rem {
+    margin-bottom: -17rem;
   }
 
-  .sm\:-ml-64\.5 {
-    margin-left: -16.5rem;
+  .sm\:-ml-17rem {
+    margin-left: -17rem;
   }
 
   .sm\:-mt-100vh {
@@ -14631,8 +14631,8 @@ body {
     padding: 1px;
   }
 
-  .sm\:p-64\.5 {
-    padding: 16.5rem;
+  .sm\:p-17rem {
+    padding: 17rem;
   }
 
   .sm\:p-100vh {
@@ -14839,14 +14839,14 @@ body {
     padding-right: 1px;
   }
 
-  .sm\:py-64\.5 {
-    padding-top: 16.5rem;
-    padding-bottom: 16.5rem;
+  .sm\:py-17rem {
+    padding-top: 17rem;
+    padding-bottom: 17rem;
   }
 
-  .sm\:px-64\.5 {
-    padding-left: 16.5rem;
-    padding-right: 16.5rem;
+  .sm\:px-17rem {
+    padding-left: 17rem;
+    padding-right: 17rem;
   }
 
   .sm\:py-100vh {
@@ -15179,20 +15179,20 @@ body {
     padding-left: 1px;
   }
 
-  .sm\:pt-64\.5 {
-    padding-top: 16.5rem;
+  .sm\:pt-17rem {
+    padding-top: 17rem;
   }
 
-  .sm\:pr-64\.5 {
-    padding-right: 16.5rem;
+  .sm\:pr-17rem {
+    padding-right: 17rem;
   }
 
-  .sm\:pb-64\.5 {
-    padding-bottom: 16.5rem;
+  .sm\:pb-17rem {
+    padding-bottom: 17rem;
   }
 
-  .sm\:pl-64\.5 {
-    padding-left: 16.5rem;
+  .sm\:pl-17rem {
+    padding-left: 17rem;
   }
 
   .sm\:pt-100vh {
@@ -17943,8 +17943,8 @@ body {
     width: 1px;
   }
 
-  .sm\:w-64\.5 {
-    width: 16.5rem;
+  .sm\:w-17rem {
+    width: 17rem;
   }
 
   .sm\:w-100vh {
@@ -21659,8 +21659,8 @@ body {
     height: 1px;
   }
 
-  .md\:h-64\.5 {
-    height: 16.5rem;
+  .md\:h-17rem {
+    height: 17rem;
   }
 
   .md\:h-100vh {
@@ -21803,8 +21803,8 @@ body {
     margin: 1px;
   }
 
-  .md\:m-64\.5 {
-    margin: 16.5rem;
+  .md\:m-17rem {
+    margin: 17rem;
   }
 
   .md\:m-100vh {
@@ -21887,8 +21887,8 @@ body {
     margin: -1px;
   }
 
-  .md\:-m-64\.5 {
-    margin: -16.5rem;
+  .md\:-m-17rem {
+    margin: -17rem;
   }
 
   .md\:-m-100vh {
@@ -22105,14 +22105,14 @@ body {
     margin-right: 1px;
   }
 
-  .md\:my-64\.5 {
-    margin-top: 16.5rem;
-    margin-bottom: 16.5rem;
+  .md\:my-17rem {
+    margin-top: 17rem;
+    margin-bottom: 17rem;
   }
 
-  .md\:mx-64\.5 {
-    margin-left: 16.5rem;
-    margin-right: 16.5rem;
+  .md\:mx-17rem {
+    margin-left: 17rem;
+    margin-right: 17rem;
   }
 
   .md\:my-100vh {
@@ -22315,14 +22315,14 @@ body {
     margin-right: -1px;
   }
 
-  .md\:-my-64\.5 {
-    margin-top: -16.5rem;
-    margin-bottom: -16.5rem;
+  .md\:-my-17rem {
+    margin-top: -17rem;
+    margin-bottom: -17rem;
   }
 
-  .md\:-mx-64\.5 {
-    margin-left: -16.5rem;
-    margin-right: -16.5rem;
+  .md\:-mx-17rem {
+    margin-left: -17rem;
+    margin-right: -17rem;
   }
 
   .md\:-my-100vh {
@@ -22671,20 +22671,20 @@ body {
     margin-left: 1px;
   }
 
-  .md\:mt-64\.5 {
-    margin-top: 16.5rem;
+  .md\:mt-17rem {
+    margin-top: 17rem;
   }
 
-  .md\:mr-64\.5 {
-    margin-right: 16.5rem;
+  .md\:mr-17rem {
+    margin-right: 17rem;
   }
 
-  .md\:mb-64\.5 {
-    margin-bottom: 16.5rem;
+  .md\:mb-17rem {
+    margin-bottom: 17rem;
   }
 
-  .md\:ml-64\.5 {
-    margin-left: 16.5rem;
+  .md\:ml-17rem {
+    margin-left: 17rem;
   }
 
   .md\:mt-100vh {
@@ -23007,20 +23007,20 @@ body {
     margin-left: -1px;
   }
 
-  .md\:-mt-64\.5 {
-    margin-top: -16.5rem;
+  .md\:-mt-17rem {
+    margin-top: -17rem;
   }
 
-  .md\:-mr-64\.5 {
-    margin-right: -16.5rem;
+  .md\:-mr-17rem {
+    margin-right: -17rem;
   }
 
-  .md\:-mb-64\.5 {
-    margin-bottom: -16.5rem;
+  .md\:-mb-17rem {
+    margin-bottom: -17rem;
   }
 
-  .md\:-ml-64\.5 {
-    margin-left: -16.5rem;
+  .md\:-ml-17rem {
+    margin-left: -17rem;
   }
 
   .md\:-mt-100vh {
@@ -23371,8 +23371,8 @@ body {
     padding: 1px;
   }
 
-  .md\:p-64\.5 {
-    padding: 16.5rem;
+  .md\:p-17rem {
+    padding: 17rem;
   }
 
   .md\:p-100vh {
@@ -23579,14 +23579,14 @@ body {
     padding-right: 1px;
   }
 
-  .md\:py-64\.5 {
-    padding-top: 16.5rem;
-    padding-bottom: 16.5rem;
+  .md\:py-17rem {
+    padding-top: 17rem;
+    padding-bottom: 17rem;
   }
 
-  .md\:px-64\.5 {
-    padding-left: 16.5rem;
-    padding-right: 16.5rem;
+  .md\:px-17rem {
+    padding-left: 17rem;
+    padding-right: 17rem;
   }
 
   .md\:py-100vh {
@@ -23919,20 +23919,20 @@ body {
     padding-left: 1px;
   }
 
-  .md\:pt-64\.5 {
-    padding-top: 16.5rem;
+  .md\:pt-17rem {
+    padding-top: 17rem;
   }
 
-  .md\:pr-64\.5 {
-    padding-right: 16.5rem;
+  .md\:pr-17rem {
+    padding-right: 17rem;
   }
 
-  .md\:pb-64\.5 {
-    padding-bottom: 16.5rem;
+  .md\:pb-17rem {
+    padding-bottom: 17rem;
   }
 
-  .md\:pl-64\.5 {
-    padding-left: 16.5rem;
+  .md\:pl-17rem {
+    padding-left: 17rem;
   }
 
   .md\:pt-100vh {
@@ -26683,8 +26683,8 @@ body {
     width: 1px;
   }
 
-  .md\:w-64\.5 {
-    width: 16.5rem;
+  .md\:w-17rem {
+    width: 17rem;
   }
 
   .md\:w-100vh {
@@ -30399,8 +30399,8 @@ body {
     height: 1px;
   }
 
-  .lg\:h-64\.5 {
-    height: 16.5rem;
+  .lg\:h-17rem {
+    height: 17rem;
   }
 
   .lg\:h-100vh {
@@ -30543,8 +30543,8 @@ body {
     margin: 1px;
   }
 
-  .lg\:m-64\.5 {
-    margin: 16.5rem;
+  .lg\:m-17rem {
+    margin: 17rem;
   }
 
   .lg\:m-100vh {
@@ -30627,8 +30627,8 @@ body {
     margin: -1px;
   }
 
-  .lg\:-m-64\.5 {
-    margin: -16.5rem;
+  .lg\:-m-17rem {
+    margin: -17rem;
   }
 
   .lg\:-m-100vh {
@@ -30845,14 +30845,14 @@ body {
     margin-right: 1px;
   }
 
-  .lg\:my-64\.5 {
-    margin-top: 16.5rem;
-    margin-bottom: 16.5rem;
+  .lg\:my-17rem {
+    margin-top: 17rem;
+    margin-bottom: 17rem;
   }
 
-  .lg\:mx-64\.5 {
-    margin-left: 16.5rem;
-    margin-right: 16.5rem;
+  .lg\:mx-17rem {
+    margin-left: 17rem;
+    margin-right: 17rem;
   }
 
   .lg\:my-100vh {
@@ -31055,14 +31055,14 @@ body {
     margin-right: -1px;
   }
 
-  .lg\:-my-64\.5 {
-    margin-top: -16.5rem;
-    margin-bottom: -16.5rem;
+  .lg\:-my-17rem {
+    margin-top: -17rem;
+    margin-bottom: -17rem;
   }
 
-  .lg\:-mx-64\.5 {
-    margin-left: -16.5rem;
-    margin-right: -16.5rem;
+  .lg\:-mx-17rem {
+    margin-left: -17rem;
+    margin-right: -17rem;
   }
 
   .lg\:-my-100vh {
@@ -31411,20 +31411,20 @@ body {
     margin-left: 1px;
   }
 
-  .lg\:mt-64\.5 {
-    margin-top: 16.5rem;
+  .lg\:mt-17rem {
+    margin-top: 17rem;
   }
 
-  .lg\:mr-64\.5 {
-    margin-right: 16.5rem;
+  .lg\:mr-17rem {
+    margin-right: 17rem;
   }
 
-  .lg\:mb-64\.5 {
-    margin-bottom: 16.5rem;
+  .lg\:mb-17rem {
+    margin-bottom: 17rem;
   }
 
-  .lg\:ml-64\.5 {
-    margin-left: 16.5rem;
+  .lg\:ml-17rem {
+    margin-left: 17rem;
   }
 
   .lg\:mt-100vh {
@@ -31747,20 +31747,20 @@ body {
     margin-left: -1px;
   }
 
-  .lg\:-mt-64\.5 {
-    margin-top: -16.5rem;
+  .lg\:-mt-17rem {
+    margin-top: -17rem;
   }
 
-  .lg\:-mr-64\.5 {
-    margin-right: -16.5rem;
+  .lg\:-mr-17rem {
+    margin-right: -17rem;
   }
 
-  .lg\:-mb-64\.5 {
-    margin-bottom: -16.5rem;
+  .lg\:-mb-17rem {
+    margin-bottom: -17rem;
   }
 
-  .lg\:-ml-64\.5 {
-    margin-left: -16.5rem;
+  .lg\:-ml-17rem {
+    margin-left: -17rem;
   }
 
   .lg\:-mt-100vh {
@@ -32111,8 +32111,8 @@ body {
     padding: 1px;
   }
 
-  .lg\:p-64\.5 {
-    padding: 16.5rem;
+  .lg\:p-17rem {
+    padding: 17rem;
   }
 
   .lg\:p-100vh {
@@ -32319,14 +32319,14 @@ body {
     padding-right: 1px;
   }
 
-  .lg\:py-64\.5 {
-    padding-top: 16.5rem;
-    padding-bottom: 16.5rem;
+  .lg\:py-17rem {
+    padding-top: 17rem;
+    padding-bottom: 17rem;
   }
 
-  .lg\:px-64\.5 {
-    padding-left: 16.5rem;
-    padding-right: 16.5rem;
+  .lg\:px-17rem {
+    padding-left: 17rem;
+    padding-right: 17rem;
   }
 
   .lg\:py-100vh {
@@ -32659,20 +32659,20 @@ body {
     padding-left: 1px;
   }
 
-  .lg\:pt-64\.5 {
-    padding-top: 16.5rem;
+  .lg\:pt-17rem {
+    padding-top: 17rem;
   }
 
-  .lg\:pr-64\.5 {
-    padding-right: 16.5rem;
+  .lg\:pr-17rem {
+    padding-right: 17rem;
   }
 
-  .lg\:pb-64\.5 {
-    padding-bottom: 16.5rem;
+  .lg\:pb-17rem {
+    padding-bottom: 17rem;
   }
 
-  .lg\:pl-64\.5 {
-    padding-left: 16.5rem;
+  .lg\:pl-17rem {
+    padding-left: 17rem;
   }
 
   .lg\:pt-100vh {
@@ -35423,8 +35423,8 @@ body {
     width: 1px;
   }
 
-  .lg\:w-64\.5 {
-    width: 16.5rem;
+  .lg\:w-17rem {
+    width: 17rem;
   }
 
   .lg\:w-100vh {
@@ -39139,8 +39139,8 @@ body {
     height: 1px;
   }
 
-  .xl\:h-64\.5 {
-    height: 16.5rem;
+  .xl\:h-17rem {
+    height: 17rem;
   }
 
   .xl\:h-100vh {
@@ -39283,8 +39283,8 @@ body {
     margin: 1px;
   }
 
-  .xl\:m-64\.5 {
-    margin: 16.5rem;
+  .xl\:m-17rem {
+    margin: 17rem;
   }
 
   .xl\:m-100vh {
@@ -39367,8 +39367,8 @@ body {
     margin: -1px;
   }
 
-  .xl\:-m-64\.5 {
-    margin: -16.5rem;
+  .xl\:-m-17rem {
+    margin: -17rem;
   }
 
   .xl\:-m-100vh {
@@ -39585,14 +39585,14 @@ body {
     margin-right: 1px;
   }
 
-  .xl\:my-64\.5 {
-    margin-top: 16.5rem;
-    margin-bottom: 16.5rem;
+  .xl\:my-17rem {
+    margin-top: 17rem;
+    margin-bottom: 17rem;
   }
 
-  .xl\:mx-64\.5 {
-    margin-left: 16.5rem;
-    margin-right: 16.5rem;
+  .xl\:mx-17rem {
+    margin-left: 17rem;
+    margin-right: 17rem;
   }
 
   .xl\:my-100vh {
@@ -39795,14 +39795,14 @@ body {
     margin-right: -1px;
   }
 
-  .xl\:-my-64\.5 {
-    margin-top: -16.5rem;
-    margin-bottom: -16.5rem;
+  .xl\:-my-17rem {
+    margin-top: -17rem;
+    margin-bottom: -17rem;
   }
 
-  .xl\:-mx-64\.5 {
-    margin-left: -16.5rem;
-    margin-right: -16.5rem;
+  .xl\:-mx-17rem {
+    margin-left: -17rem;
+    margin-right: -17rem;
   }
 
   .xl\:-my-100vh {
@@ -40151,20 +40151,20 @@ body {
     margin-left: 1px;
   }
 
-  .xl\:mt-64\.5 {
-    margin-top: 16.5rem;
+  .xl\:mt-17rem {
+    margin-top: 17rem;
   }
 
-  .xl\:mr-64\.5 {
-    margin-right: 16.5rem;
+  .xl\:mr-17rem {
+    margin-right: 17rem;
   }
 
-  .xl\:mb-64\.5 {
-    margin-bottom: 16.5rem;
+  .xl\:mb-17rem {
+    margin-bottom: 17rem;
   }
 
-  .xl\:ml-64\.5 {
-    margin-left: 16.5rem;
+  .xl\:ml-17rem {
+    margin-left: 17rem;
   }
 
   .xl\:mt-100vh {
@@ -40487,20 +40487,20 @@ body {
     margin-left: -1px;
   }
 
-  .xl\:-mt-64\.5 {
-    margin-top: -16.5rem;
+  .xl\:-mt-17rem {
+    margin-top: -17rem;
   }
 
-  .xl\:-mr-64\.5 {
-    margin-right: -16.5rem;
+  .xl\:-mr-17rem {
+    margin-right: -17rem;
   }
 
-  .xl\:-mb-64\.5 {
-    margin-bottom: -16.5rem;
+  .xl\:-mb-17rem {
+    margin-bottom: -17rem;
   }
 
-  .xl\:-ml-64\.5 {
-    margin-left: -16.5rem;
+  .xl\:-ml-17rem {
+    margin-left: -17rem;
   }
 
   .xl\:-mt-100vh {
@@ -40851,8 +40851,8 @@ body {
     padding: 1px;
   }
 
-  .xl\:p-64\.5 {
-    padding: 16.5rem;
+  .xl\:p-17rem {
+    padding: 17rem;
   }
 
   .xl\:p-100vh {
@@ -41059,14 +41059,14 @@ body {
     padding-right: 1px;
   }
 
-  .xl\:py-64\.5 {
-    padding-top: 16.5rem;
-    padding-bottom: 16.5rem;
+  .xl\:py-17rem {
+    padding-top: 17rem;
+    padding-bottom: 17rem;
   }
 
-  .xl\:px-64\.5 {
-    padding-left: 16.5rem;
-    padding-right: 16.5rem;
+  .xl\:px-17rem {
+    padding-left: 17rem;
+    padding-right: 17rem;
   }
 
   .xl\:py-100vh {
@@ -41399,20 +41399,20 @@ body {
     padding-left: 1px;
   }
 
-  .xl\:pt-64\.5 {
-    padding-top: 16.5rem;
+  .xl\:pt-17rem {
+    padding-top: 17rem;
   }
 
-  .xl\:pr-64\.5 {
-    padding-right: 16.5rem;
+  .xl\:pr-17rem {
+    padding-right: 17rem;
   }
 
-  .xl\:pb-64\.5 {
-    padding-bottom: 16.5rem;
+  .xl\:pb-17rem {
+    padding-bottom: 17rem;
   }
 
-  .xl\:pl-64\.5 {
-    padding-left: 16.5rem;
+  .xl\:pl-17rem {
+    padding-left: 17rem;
   }
 
   .xl\:pt-100vh {
@@ -44163,8 +44163,8 @@ body {
     width: 1px;
   }
 
-  .xl\:w-64\.5 {
-    width: 16.5rem;
+  .xl\:w-17rem {
+    width: 17rem;
   }
 
   .xl\:w-100vh {

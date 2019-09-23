@@ -20,7 +20,7 @@ module.exports = {
         'chevron-blue': '#8F98A8'
       },
       spacing: {
-        '64.5': '16.5rem',
+        '17rem': '17rem',
         '25': '7rem',
         '100vh': '100vh'
       },
