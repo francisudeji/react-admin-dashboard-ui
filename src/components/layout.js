@@ -5,8 +5,8 @@ import Main from './main'
 function Layout({ children, name }) {
   const [isOpen, setIsOpen] = React.useState(false)
   return (
-    <div className='contain'>
-      <div className='relative flex'>
+    <div className='container mx-auto h-100%'>
+      <div className='relative flex h-100%'>
         <Sidebar name={name} isOpen={isOpen} />
         <Main name={name} isOpen={isOpen} setIsOpen={setIsOpen}>
           {children}

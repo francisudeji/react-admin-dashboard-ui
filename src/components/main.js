@@ -1,7 +1,9 @@
-import React from 'react'
+import React, { useState } from 'react'
 import { FaBell } from 'react-icons/fa'
 
 function Main({ children, name, isOpen, setIsOpen }) {
+  const [checked, setChecked] = useState(true)
+
   return (
     <main className='main flex-1 py-4'>
       <div className='w-11/12 lg:w-4/5 mx-auto'>
@@ -25,21 +27,28 @@ function Main({ children, name, isOpen, setIsOpen }) {
             </h1>
           </div>
           <div className='right flex justify-between items-center mt-4 lg:mt-0'>
-            <div className='flex items-center mr-10'>
-              <input
-                type='checkbox'
-                value='none'
-                id='mode'
-                name='check'
-                defaultChecked
-                className='mr-2'
-              />
+            <div className='flex items-center mr-10 toggle-wrapper relative'>
               <label
                 htmlFor='mode'
-                className='lg:text-lg font-bold text-dark-blue'
+                className='toggle-label font-bold text-dark-blue lg:text-lg'
+                style={{
+                  background: checked ? '#67C462' : '#D8D8D8'
+                }}
               >
-                Test Mode
+                <input
+                  type='checkbox'
+                  id='mode'
+                  name='check'
+                  checked={checked ? 'checked' : ''}
+                  onChange={() => setChecked(!checked)}
+                  className='toggle-input mr-2 focus:outline-none focus:shadow-lg'
+                  style={{
+                    transform: checked ? 'translateX(100%)' : 'translate(0)',
+                    transition: 'all 0.1s ease-in-out'
+                  }}
+                />
               </label>
+              <span className='ml-3 text-darker-blue font-bold'>Test Mode</span>
             </div>
             <div className='mr-10 relative'>
               <span className='absolute right-0 top-0 -mr-1 -mt-1 bg-badge-red w-4 h-4 rounded-full text-badge-gray text-xs flex items-center justify-center text-center'>

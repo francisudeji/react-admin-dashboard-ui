@@ -1,6 +1,12 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
-import { FaChevronDown, FaCreditCard, FaCode, FaCog } from 'react-icons/fa'
+import {
+  FaDirections,
+  FaChevronDown,
+  FaCreditCard,
+  FaCode,
+  FaCog
+} from 'react-icons/fa'
 
 function Sidebar({ name, isOpen }) {
   const className = pathname =>
@@ -10,16 +16,16 @@ function Sidebar({ name, isOpen }) {
 
   return (
     <aside
-      className={`h-100vh ${
-        !isOpen ? '-ml-17rem' : 'ml-0'
-      } w-17rem border-r-2 border-gray-300 p-4 lg:block lg:relative lg:ml-0`}
-      style={{ transition: 'all 0.2s ease-in-out' }}
+      className={`border-r-2 border-gray-300 p-4 lg:block lg:relative lg:ml-0 ${
+        isOpen ? 'block' : 'hidden'
+      }`}
+      style={{ transition: 'all 0.2s ease-in-out', height: '100%' }}
     >
       <header className='flex pt-3'>
-        <button className='w-8 h-8 bg-white shadow rounded text-sm font-semibold'>
-          B
-        </button>
         <button className='h-8 px-1 ml-1 bg-transparent text-lg font-bold text-darker-blue flex items-center'>
+          <span className='w-8 h-8 bg-white shadow rounded text-sm font-semibold flex items-center justify-center mr-2'>
+            B
+          </span>
           Business name{' '}
           <FaChevronDown className='ml-2 mt-1 text-xs text-chevron-blue' />
         </button>
@@ -28,14 +34,14 @@ function Sidebar({ name, isOpen }) {
         <ul>
           <li className='mt-1'>
             <a
-              className='py-2 text-link-blue font-normal flex items-center'
-              href='/'
+              className='py-2 text-link-blue font-normal flex items-center hover:text-link-green'
+              href='#dashboard'
             >
               <span>
                 <img
                   className='h-4 w-4 fill-current'
                   src='/assets/svgs/home.svg'
-                  alt=''
+                  alt='dashboard icon'
                 />
               </span>
               <span className='ml-3'>Dashboard</span>
@@ -50,7 +56,7 @@ function Sidebar({ name, isOpen }) {
                 <img
                   className='h-4 w-4 fill-current'
                   src='/assets/svgs/balances.svg'
-                  alt=''
+                  alt='balances icon'
                 />
               </span>
               <span className='ml-3'>Balances</span>
@@ -58,8 +64,8 @@ function Sidebar({ name, isOpen }) {
           </li>
           <li className='mt-1'>
             <a
-              className='py-2 text-link-blue flex items-center font-normal'
-              href='/'
+              className='py-2 text-link-blue flex items-center font-normal hover:text-link-green'
+              href='#payments'
             >
               <span>
                 <FaCreditCard />
@@ -73,15 +79,15 @@ function Sidebar({ name, isOpen }) {
               to='/transfers'
             >
               <span>
-                <img className='h-4 w-4' src='/assets/svgs/home.svg' alt='' />
+                <FaDirections />
               </span>
               <span className='ml-3'>Transfers</span>
             </Link>
           </li>
           <li className='mt-1'>
             <a
-              className='py-2 text-link-blue flex items-center font-normal'
-              href='/'
+              className='py-2 text-link-blue flex items-center font-normal hover:text-link-green'
+              href='#developers'
             >
               <span>
                 <FaCode />
@@ -91,8 +97,8 @@ function Sidebar({ name, isOpen }) {
           </li>
           <li className='mt-1'>
             <a
-              className='py-2 text-link-blue flex items-center font-normal'
-              href='/'
+              className='py-2 text-link-blue flex items-center font-normal hover:text-link-green'
+              href='#settings'
             >
               <span>
                 <FaCog />
