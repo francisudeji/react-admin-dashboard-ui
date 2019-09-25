@@ -7,7 +7,7 @@ function Transfers() {
     <Layout name='Transfers'>
       <div className='content mt-10 bg-white rounded shadow-md'>
         <div className='flex justify-end items-center px-4 py-4 lg:px-8'>
-          <button className='bg-green-500 text-white text-base mt-2 px-5 py-1 rounded flex items-center'>
+          <button className='bg-light-green text-white text-base mt-2 px-5 py-1 rounded flex items-center'>
             New transfer <FaChevronDown className='mt-1 ml-3' />
           </button>
         </div>
