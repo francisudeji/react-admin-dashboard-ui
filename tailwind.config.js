@@ -4,6 +4,7 @@ module.exports = {
       colors: {
         'light-gray': '#F7F6F3',
         'link-green': '#529C4E',
+        'light-green': '#67C462',
         'link-blue': '#637086',
         'heading-blue': '#6B778C',
         'user-gray': '#D8D8D8',
@@ -22,7 +23,8 @@ module.exports = {
       spacing: {
         '17rem': '17rem',
         '25': '7rem',
-        '100vh': '100vh'
+        '100vh': '100vh',
+        '100%': '100%'
       },
       screens: {
         sm: '576px',

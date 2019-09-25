@@ -1,7 +1,39 @@
 @tailwind base;
 @tailwind components;
 
+html,
+body {
+  height: 100%;
+}
+
 body {
   @apply bg-light-gray;
+  overflow: hidden;
 }
+
+.toggle-label {
+  width: 33px;
+  height: 14px;
+  display: flex;
+  align-items: center;
+  position: relative;
+  border-radius: 1rem;
+  border: 1px solid #529c4e;
+}
+
+.toggle-input {
+  height: 16px;
+  width: 16px;
+  border-radius: 50%;
+  appearance: button;
+  background: white;
+  border: 1px solid #529c4e;
+  z-index: 30;
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+  margin-top: -2px;
+}
+
 @tailwind utilities;
