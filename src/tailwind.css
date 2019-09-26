@@ -9,6 +9,7 @@ body {
 body {
   @apply bg-light-gray;
   overflow: hidden;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 .toggle-label {

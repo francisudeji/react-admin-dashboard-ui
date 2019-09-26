@@ -110,7 +110,7 @@ function Sidebar({ name, isOpen }) {
         </nav>
       </div>
       <div className='items-end'>
-        <button className='flex bg-payment-btn text-light-green items-center justify-center px-6 py-2'>
+        <button className='flex bg-payment-btn text-light-green items-center justify-center px-6 py-2 shadow-md'>
           <img
             className='w-4 h-4'
             src='/assets/svgs/plus.png'

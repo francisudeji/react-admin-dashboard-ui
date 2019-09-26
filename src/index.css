@@ -618,6 +618,7 @@ body {
 body {
   background-color: #F7F6F3;
   overflow: hidden;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 .toggle-label {
