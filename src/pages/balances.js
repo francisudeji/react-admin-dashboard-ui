@@ -20,7 +20,7 @@ function Balances() {
           </li>
           <li className='flex justify-between items-center py-5 px-3 border-b-2 border-gray-200 lg:px-6'>
             <div className='flex-1'>
-              <span className='lg:text-lg font-bold text-list-blue flex items-center'>
+              <span className='text-base font-bold text-list-blue flex items-center'>
                 <img
                   className='hidden h-8 w-8 mr-3 sm:block'
                   src='/assets/logos/bitcoin.jpg'
@@ -30,7 +30,7 @@ function Balances() {
               </span>
             </div>
             <div className='w-2/3 lg:w-1/2 flex justify-between items-center'>
-              <div className='lg:text-lg w-1/2 text-right lg:mr-20'>
+              <div className='text-base w-1/2 text-right lg:mr-20'>
                 <span className='block text-dark-blue-number font-semibold text-right '>
                   10.12345678 BTC
                 </span>
@@ -38,7 +38,7 @@ function Balances() {
                   2,000,000 NGN
                 </span>
               </div>
-              <div className='lg:text-lg w-1/2 text-right'>
+              <div className='text-base w-1/2 text-right'>
                 <span className='block text-dark-blue-number font-semibold'>
                   10.12345678 BTC
                 </span>
@@ -50,7 +50,7 @@ function Balances() {
           </li>
           <li className='flex justify-between items-center py-5 px-3 border-b-2 border-gray-200 bg-list-gray lg:px-6'>
             <div className='flex-1'>
-              <span className='lg:text-lg font-bold text-list-blue flex items-center'>
+              <span className='text-base font-bold text-list-blue flex items-center'>
                 <img
                   className='hidden h-8 w-8 mr-3 sm:block'
                   src='/assets/logos/ethereum.jpg'
@@ -60,7 +60,7 @@ function Balances() {
               </span>
             </div>
             <div className='w-2/3 lg:w-1/2 flex justify-between items-center'>
-              <div className='lg:text-lg w-1/2 text-right lg:mr-20'>
+              <div className='text-base w-1/2 text-right lg:mr-20'>
                 <span className='block text-dark-blue-number font-semibold'>
                   10.12345678 BTC
                 </span>
@@ -68,7 +68,7 @@ function Balances() {
                   2,000,000 NGN
                 </span>
               </div>
-              <div className='lg:text-lg w-1/2 text-right'>
+              <div className='text-base w-1/2 text-right'>
                 <span className='block text-dark-blue-number font-semibold'>
                   10.12345678 BTC
                 </span>
@@ -80,16 +80,16 @@ function Balances() {
           </li>
           <li className='flex justify-between items-center py-5 px-3 border-b-2 border-gray-200 lg:px-6'>
             <div className='flex-1'>
-              <span className='lg:text-lg font-bold text-list-blue flex items-center'>
+              <span className='text-base font-bold text-list-blue flex items-center'>
                 <FaBook className='hidden h-8 w-8 text-green-naira mr-3 sm:block' />
                 Naira
               </span>
             </div>
             <div className='w-2/3 lg:w-1/2 flex justify-between items-center text-dark-blue-number font-semibold'>
-              <div className='lg:text-lg w-1/2 text-right lg:mr-20'>
+              <div className='text-base w-1/2 text-right lg:mr-20'>
                 NGN 800,000
               </div>
-              <div className='lg:text-lg w-1/2 text-right'>NGN 2,000,000</div>
+              <div className='text-base w-1/2 text-right'>NGN 2,000,000</div>
             </div>
           </li>
         </ul>
