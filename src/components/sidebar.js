@@ -15,8 +15,8 @@ function Sidebar({ name, isOpen }) {
       : 'text-link-blue'
 
   return (
-    <aside
-      className={`border-r-2 border-gray-300 p-4 flex-col justify-between lg:flex lg:relative lg:ml-0 flex ${
+    <div
+      className={`w-17rem border-r-2 border-gray-300 p-4 flex-col justify-between lg:flex lg:relative lg:ml-0 flex h-100% ${
         isOpen ? 'flex' : 'hidden'
       }`}
     >
@@ -119,7 +119,7 @@ function Sidebar({ name, isOpen }) {
           <span className='ml-3'>Accept Payment</span>
         </button>
       </div>
-    </aside>
+    </div>
   )
 }
 
