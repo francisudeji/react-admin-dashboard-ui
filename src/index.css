@@ -1151,6 +1151,14 @@ body {
   background-color: #8F98A8;
 }
 
+.bg-green-naira {
+  background-color: #74DF70;
+}
+
+.bg-payment-btn {
+  background-color: rgba(103, 196, 98, 0.30000001192092896);
+}
+
 .hover\:bg-transparent:hover {
   background-color: transparent;
 }
@@ -1591,6 +1599,14 @@ body {
   background-color: #8F98A8;
 }
 
+.hover\:bg-green-naira:hover {
+  background-color: #74DF70;
+}
+
+.hover\:bg-payment-btn:hover {
+  background-color: rgba(103, 196, 98, 0.30000001192092896);
+}
+
 .focus\:bg-transparent:focus {
   background-color: transparent;
 }
@@ -2029,6 +2045,14 @@ body {
 
 .focus\:bg-chevron-blue:focus {
   background-color: #8F98A8;
+}
+
+.focus\:bg-green-naira:focus {
+  background-color: #74DF70;
+}
+
+.focus\:bg-payment-btn:focus {
+  background-color: rgba(103, 196, 98, 0.30000001192092896);
 }
 
 .bg-bottom {
@@ -2551,6 +2575,14 @@ body {
   border-color: #8F98A8;
 }
 
+.border-green-naira {
+  border-color: #74DF70;
+}
+
+.border-payment-btn {
+  border-color: rgba(103, 196, 98, 0.30000001192092896);
+}
+
 .hover\:border-transparent:hover {
   border-color: transparent;
 }
@@ -2991,6 +3023,14 @@ body {
   border-color: #8F98A8;
 }
 
+.hover\:border-green-naira:hover {
+  border-color: #74DF70;
+}
+
+.hover\:border-payment-btn:hover {
+  border-color: rgba(103, 196, 98, 0.30000001192092896);
+}
+
 .focus\:border-transparent:focus {
   border-color: transparent;
 }
@@ -3429,6 +3469,14 @@ body {
 
 .focus\:border-chevron-blue:focus {
   border-color: #8F98A8;
+}
+
+.focus\:border-green-naira:focus {
+  border-color: #74DF70;
+}
+
+.focus\:border-payment-btn:focus {
+  border-color: rgba(103, 196, 98, 0.30000001192092896);
 }
 
 .rounded-none {
@@ -7063,6 +7111,14 @@ body {
   color: #8F98A8;
 }
 
+.placeholder-green-naira::placeholder {
+  color: #74DF70;
+}
+
+.placeholder-payment-btn::placeholder {
+  color: rgba(103, 196, 98, 0.30000001192092896);
+}
+
 .focus\:placeholder-transparent:focus::placeholder {
   color: transparent;
 }
@@ -7501,6 +7557,14 @@ body {
 
 .focus\:placeholder-chevron-blue:focus::placeholder {
   color: #8F98A8;
+}
+
+.focus\:placeholder-green-naira:focus::placeholder {
+  color: #74DF70;
+}
+
+.focus\:placeholder-payment-btn:focus::placeholder {
+  color: rgba(103, 196, 98, 0.30000001192092896);
 }
 
 .pointer-events-none {
@@ -8182,6 +8246,14 @@ body {
   color: #8F98A8;
 }
 
+.text-green-naira {
+  color: #74DF70;
+}
+
+.text-payment-btn {
+  color: rgba(103, 196, 98, 0.30000001192092896);
+}
+
 .hover\:text-transparent:hover {
   color: transparent;
 }
@@ -8622,6 +8694,14 @@ body {
   color: #8F98A8;
 }
 
+.hover\:text-green-naira:hover {
+  color: #74DF70;
+}
+
+.hover\:text-payment-btn:hover {
+  color: rgba(103, 196, 98, 0.30000001192092896);
+}
+
 .focus\:text-transparent:focus {
   color: transparent;
 }
@@ -9060,6 +9140,14 @@ body {
 
 .focus\:text-chevron-blue:focus {
   color: #8F98A8;
+}
+
+.focus\:text-green-naira:focus {
+  color: #74DF70;
+}
+
+.focus\:text-payment-btn:focus {
+  color: rgba(103, 196, 98, 0.30000001192092896);
 }
 
 .text-xs {
@@ -10032,6 +10120,14 @@ body {
     background-color: #8F98A8;
   }
 
+  .sm\:bg-green-naira {
+    background-color: #74DF70;
+  }
+
+  .sm\:bg-payment-btn {
+    background-color: rgba(103, 196, 98, 0.30000001192092896);
+  }
+
   .sm\:hover\:bg-transparent:hover {
     background-color: transparent;
   }
@@ -10472,6 +10568,14 @@ body {
     background-color: #8F98A8;
   }
 
+  .sm\:hover\:bg-green-naira:hover {
+    background-color: #74DF70;
+  }
+
+  .sm\:hover\:bg-payment-btn:hover {
+    background-color: rgba(103, 196, 98, 0.30000001192092896);
+  }
+
   .sm\:focus\:bg-transparent:focus {
     background-color: transparent;
   }
@@ -10910,6 +11014,14 @@ body {
 
   .sm\:focus\:bg-chevron-blue:focus {
     background-color: #8F98A8;
+  }
+
+  .sm\:focus\:bg-green-naira:focus {
+    background-color: #74DF70;
+  }
+
+  .sm\:focus\:bg-payment-btn:focus {
+    background-color: rgba(103, 196, 98, 0.30000001192092896);
   }
 
   .sm\:bg-bottom {
@@ -11432,6 +11544,14 @@ body {
     border-color: #8F98A8;
   }
 
+  .sm\:border-green-naira {
+    border-color: #74DF70;
+  }
+
+  .sm\:border-payment-btn {
+    border-color: rgba(103, 196, 98, 0.30000001192092896);
+  }
+
   .sm\:hover\:border-transparent:hover {
     border-color: transparent;
   }
@@ -11872,6 +11992,14 @@ body {
     border-color: #8F98A8;
   }
 
+  .sm\:hover\:border-green-naira:hover {
+    border-color: #74DF70;
+  }
+
+  .sm\:hover\:border-payment-btn:hover {
+    border-color: rgba(103, 196, 98, 0.30000001192092896);
+  }
+
   .sm\:focus\:border-transparent:focus {
     border-color: transparent;
   }
@@ -12310,6 +12438,14 @@ body {
 
   .sm\:focus\:border-chevron-blue:focus {
     border-color: #8F98A8;
+  }
+
+  .sm\:focus\:border-green-naira:focus {
+    border-color: #74DF70;
+  }
+
+  .sm\:focus\:border-payment-btn:focus {
+    border-color: rgba(103, 196, 98, 0.30000001192092896);
   }
 
   .sm\:rounded-none {
@@ -15944,6 +16080,14 @@ body {
     color: #8F98A8;
   }
 
+  .sm\:placeholder-green-naira::placeholder {
+    color: #74DF70;
+  }
+
+  .sm\:placeholder-payment-btn::placeholder {
+    color: rgba(103, 196, 98, 0.30000001192092896);
+  }
+
   .sm\:focus\:placeholder-transparent:focus::placeholder {
     color: transparent;
   }
@@ -16382,6 +16526,14 @@ body {
 
   .sm\:focus\:placeholder-chevron-blue:focus::placeholder {
     color: #8F98A8;
+  }
+
+  .sm\:focus\:placeholder-green-naira:focus::placeholder {
+    color: #74DF70;
+  }
+
+  .sm\:focus\:placeholder-payment-btn:focus::placeholder {
+    color: rgba(103, 196, 98, 0.30000001192092896);
   }
 
   .sm\:pointer-events-none {
@@ -17063,6 +17215,14 @@ body {
     color: #8F98A8;
   }
 
+  .sm\:text-green-naira {
+    color: #74DF70;
+  }
+
+  .sm\:text-payment-btn {
+    color: rgba(103, 196, 98, 0.30000001192092896);
+  }
+
   .sm\:hover\:text-transparent:hover {
     color: transparent;
   }
@@ -17503,6 +17663,14 @@ body {
     color: #8F98A8;
   }
 
+  .sm\:hover\:text-green-naira:hover {
+    color: #74DF70;
+  }
+
+  .sm\:hover\:text-payment-btn:hover {
+    color: rgba(103, 196, 98, 0.30000001192092896);
+  }
+
   .sm\:focus\:text-transparent:focus {
     color: transparent;
   }
@@ -17941,6 +18109,14 @@ body {
 
   .sm\:focus\:text-chevron-blue:focus {
     color: #8F98A8;
+  }
+
+  .sm\:focus\:text-green-naira:focus {
+    color: #74DF70;
+  }
+
+  .sm\:focus\:text-payment-btn:focus {
+    color: rgba(103, 196, 98, 0.30000001192092896);
   }
 
   .sm\:text-xs {
@@ -18914,6 +19090,14 @@ body {
     background-color: #8F98A8;
   }
 
+  .md\:bg-green-naira {
+    background-color: #74DF70;
+  }
+
+  .md\:bg-payment-btn {
+    background-color: rgba(103, 196, 98, 0.30000001192092896);
+  }
+
   .md\:hover\:bg-transparent:hover {
     background-color: transparent;
   }
@@ -19354,6 +19538,14 @@ body {
     background-color: #8F98A8;
   }
 
+  .md\:hover\:bg-green-naira:hover {
+    background-color: #74DF70;
+  }
+
+  .md\:hover\:bg-payment-btn:hover {
+    background-color: rgba(103, 196, 98, 0.30000001192092896);
+  }
+
   .md\:focus\:bg-transparent:focus {
     background-color: transparent;
   }
@@ -19792,6 +19984,14 @@ body {
 
   .md\:focus\:bg-chevron-blue:focus {
     background-color: #8F98A8;
+  }
+
+  .md\:focus\:bg-green-naira:focus {
+    background-color: #74DF70;
+  }
+
+  .md\:focus\:bg-payment-btn:focus {
+    background-color: rgba(103, 196, 98, 0.30000001192092896);
   }
 
   .md\:bg-bottom {
@@ -20314,6 +20514,14 @@ body {
     border-color: #8F98A8;
   }
 
+  .md\:border-green-naira {
+    border-color: #74DF70;
+  }
+
+  .md\:border-payment-btn {
+    border-color: rgba(103, 196, 98, 0.30000001192092896);
+  }
+
   .md\:hover\:border-transparent:hover {
     border-color: transparent;
   }
@@ -20754,6 +20962,14 @@ body {
     border-color: #8F98A8;
   }
 
+  .md\:hover\:border-green-naira:hover {
+    border-color: #74DF70;
+  }
+
+  .md\:hover\:border-payment-btn:hover {
+    border-color: rgba(103, 196, 98, 0.30000001192092896);
+  }
+
   .md\:focus\:border-transparent:focus {
     border-color: transparent;
   }
@@ -21192,6 +21408,14 @@ body {
 
   .md\:focus\:border-chevron-blue:focus {
     border-color: #8F98A8;
+  }
+
+  .md\:focus\:border-green-naira:focus {
+    border-color: #74DF70;
+  }
+
+  .md\:focus\:border-payment-btn:focus {
+    border-color: rgba(103, 196, 98, 0.30000001192092896);
   }
 
   .md\:rounded-none {
@@ -24826,6 +25050,14 @@ body {
     color: #8F98A8;
   }
 
+  .md\:placeholder-green-naira::placeholder {
+    color: #74DF70;
+  }
+
+  .md\:placeholder-payment-btn::placeholder {
+    color: rgba(103, 196, 98, 0.30000001192092896);
+  }
+
   .md\:focus\:placeholder-transparent:focus::placeholder {
     color: transparent;
   }
@@ -25264,6 +25496,14 @@ body {
 
   .md\:focus\:placeholder-chevron-blue:focus::placeholder {
     color: #8F98A8;
+  }
+
+  .md\:focus\:placeholder-green-naira:focus::placeholder {
+    color: #74DF70;
+  }
+
+  .md\:focus\:placeholder-payment-btn:focus::placeholder {
+    color: rgba(103, 196, 98, 0.30000001192092896);
   }
 
   .md\:pointer-events-none {
@@ -25945,6 +26185,14 @@ body {
     color: #8F98A8;
   }
 
+  .md\:text-green-naira {
+    color: #74DF70;
+  }
+
+  .md\:text-payment-btn {
+    color: rgba(103, 196, 98, 0.30000001192092896);
+  }
+
   .md\:hover\:text-transparent:hover {
     color: transparent;
   }
@@ -26385,6 +26633,14 @@ body {
     color: #8F98A8;
   }
 
+  .md\:hover\:text-green-naira:hover {
+    color: #74DF70;
+  }
+
+  .md\:hover\:text-payment-btn:hover {
+    color: rgba(103, 196, 98, 0.30000001192092896);
+  }
+
   .md\:focus\:text-transparent:focus {
     color: transparent;
   }
@@ -26823,6 +27079,14 @@ body {
 
   .md\:focus\:text-chevron-blue:focus {
     color: #8F98A8;
+  }
+
+  .md\:focus\:text-green-naira:focus {
+    color: #74DF70;
+  }
+
+  .md\:focus\:text-payment-btn:focus {
+    color: rgba(103, 196, 98, 0.30000001192092896);
   }
 
   .md\:text-xs {
@@ -27796,6 +28060,14 @@ body {
     background-color: #8F98A8;
   }
 
+  .lg\:bg-green-naira {
+    background-color: #74DF70;
+  }
+
+  .lg\:bg-payment-btn {
+    background-color: rgba(103, 196, 98, 0.30000001192092896);
+  }
+
   .lg\:hover\:bg-transparent:hover {
     background-color: transparent;
   }
@@ -28236,6 +28508,14 @@ body {
     background-color: #8F98A8;
   }
 
+  .lg\:hover\:bg-green-naira:hover {
+    background-color: #74DF70;
+  }
+
+  .lg\:hover\:bg-payment-btn:hover {
+    background-color: rgba(103, 196, 98, 0.30000001192092896);
+  }
+
   .lg\:focus\:bg-transparent:focus {
     background-color: transparent;
   }
@@ -28674,6 +28954,14 @@ body {
 
   .lg\:focus\:bg-chevron-blue:focus {
     background-color: #8F98A8;
+  }
+
+  .lg\:focus\:bg-green-naira:focus {
+    background-color: #74DF70;
+  }
+
+  .lg\:focus\:bg-payment-btn:focus {
+    background-color: rgba(103, 196, 98, 0.30000001192092896);
   }
 
   .lg\:bg-bottom {
@@ -29196,6 +29484,14 @@ body {
     border-color: #8F98A8;
   }
 
+  .lg\:border-green-naira {
+    border-color: #74DF70;
+  }
+
+  .lg\:border-payment-btn {
+    border-color: rgba(103, 196, 98, 0.30000001192092896);
+  }
+
   .lg\:hover\:border-transparent:hover {
     border-color: transparent;
   }
@@ -29636,6 +29932,14 @@ body {
     border-color: #8F98A8;
   }
 
+  .lg\:hover\:border-green-naira:hover {
+    border-color: #74DF70;
+  }
+
+  .lg\:hover\:border-payment-btn:hover {
+    border-color: rgba(103, 196, 98, 0.30000001192092896);
+  }
+
   .lg\:focus\:border-transparent:focus {
     border-color: transparent;
   }
@@ -30074,6 +30378,14 @@ body {
 
   .lg\:focus\:border-chevron-blue:focus {
     border-color: #8F98A8;
+  }
+
+  .lg\:focus\:border-green-naira:focus {
+    border-color: #74DF70;
+  }
+
+  .lg\:focus\:border-payment-btn:focus {
+    border-color: rgba(103, 196, 98, 0.30000001192092896);
   }
 
   .lg\:rounded-none {
@@ -33708,6 +34020,14 @@ body {
     color: #8F98A8;
   }
 
+  .lg\:placeholder-green-naira::placeholder {
+    color: #74DF70;
+  }
+
+  .lg\:placeholder-payment-btn::placeholder {
+    color: rgba(103, 196, 98, 0.30000001192092896);
+  }
+
   .lg\:focus\:placeholder-transparent:focus::placeholder {
     color: transparent;
   }
@@ -34146,6 +34466,14 @@ body {
 
   .lg\:focus\:placeholder-chevron-blue:focus::placeholder {
     color: #8F98A8;
+  }
+
+  .lg\:focus\:placeholder-green-naira:focus::placeholder {
+    color: #74DF70;
+  }
+
+  .lg\:focus\:placeholder-payment-btn:focus::placeholder {
+    color: rgba(103, 196, 98, 0.30000001192092896);
   }
 
   .lg\:pointer-events-none {
@@ -34827,6 +35155,14 @@ body {
     color: #8F98A8;
   }
 
+  .lg\:text-green-naira {
+    color: #74DF70;
+  }
+
+  .lg\:text-payment-btn {
+    color: rgba(103, 196, 98, 0.30000001192092896);
+  }
+
   .lg\:hover\:text-transparent:hover {
     color: transparent;
   }
@@ -35267,6 +35603,14 @@ body {
     color: #8F98A8;
   }
 
+  .lg\:hover\:text-green-naira:hover {
+    color: #74DF70;
+  }
+
+  .lg\:hover\:text-payment-btn:hover {
+    color: rgba(103, 196, 98, 0.30000001192092896);
+  }
+
   .lg\:focus\:text-transparent:focus {
     color: transparent;
   }
@@ -35705,6 +36049,14 @@ body {
 
   .lg\:focus\:text-chevron-blue:focus {
     color: #8F98A8;
+  }
+
+  .lg\:focus\:text-green-naira:focus {
+    color: #74DF70;
+  }
+
+  .lg\:focus\:text-payment-btn:focus {
+    color: rgba(103, 196, 98, 0.30000001192092896);
   }
 
   .lg\:text-xs {
@@ -36678,6 +37030,14 @@ body {
     background-color: #8F98A8;
   }
 
+  .xl\:bg-green-naira {
+    background-color: #74DF70;
+  }
+
+  .xl\:bg-payment-btn {
+    background-color: rgba(103, 196, 98, 0.30000001192092896);
+  }
+
   .xl\:hover\:bg-transparent:hover {
     background-color: transparent;
   }
@@ -37118,6 +37478,14 @@ body {
     background-color: #8F98A8;
   }
 
+  .xl\:hover\:bg-green-naira:hover {
+    background-color: #74DF70;
+  }
+
+  .xl\:hover\:bg-payment-btn:hover {
+    background-color: rgba(103, 196, 98, 0.30000001192092896);
+  }
+
   .xl\:focus\:bg-transparent:focus {
     background-color: transparent;
   }
@@ -37556,6 +37924,14 @@ body {
 
   .xl\:focus\:bg-chevron-blue:focus {
     background-color: #8F98A8;
+  }
+
+  .xl\:focus\:bg-green-naira:focus {
+    background-color: #74DF70;
+  }
+
+  .xl\:focus\:bg-payment-btn:focus {
+    background-color: rgba(103, 196, 98, 0.30000001192092896);
   }
 
   .xl\:bg-bottom {
@@ -38078,6 +38454,14 @@ body {
     border-color: #8F98A8;
   }
 
+  .xl\:border-green-naira {
+    border-color: #74DF70;
+  }
+
+  .xl\:border-payment-btn {
+    border-color: rgba(103, 196, 98, 0.30000001192092896);
+  }
+
   .xl\:hover\:border-transparent:hover {
     border-color: transparent;
   }
@@ -38518,6 +38902,14 @@ body {
     border-color: #8F98A8;
   }
 
+  .xl\:hover\:border-green-naira:hover {
+    border-color: #74DF70;
+  }
+
+  .xl\:hover\:border-payment-btn:hover {
+    border-color: rgba(103, 196, 98, 0.30000001192092896);
+  }
+
   .xl\:focus\:border-transparent:focus {
     border-color: transparent;
   }
@@ -38956,6 +39348,14 @@ body {
 
   .xl\:focus\:border-chevron-blue:focus {
     border-color: #8F98A8;
+  }
+
+  .xl\:focus\:border-green-naira:focus {
+    border-color: #74DF70;
+  }
+
+  .xl\:focus\:border-payment-btn:focus {
+    border-color: rgba(103, 196, 98, 0.30000001192092896);
   }
 
   .xl\:rounded-none {
@@ -42590,6 +42990,14 @@ body {
     color: #8F98A8;
   }
 
+  .xl\:placeholder-green-naira::placeholder {
+    color: #74DF70;
+  }
+
+  .xl\:placeholder-payment-btn::placeholder {
+    color: rgba(103, 196, 98, 0.30000001192092896);
+  }
+
   .xl\:focus\:placeholder-transparent:focus::placeholder {
     color: transparent;
   }
@@ -43028,6 +43436,14 @@ body {
 
   .xl\:focus\:placeholder-chevron-blue:focus::placeholder {
     color: #8F98A8;
+  }
+
+  .xl\:focus\:placeholder-green-naira:focus::placeholder {
+    color: #74DF70;
+  }
+
+  .xl\:focus\:placeholder-payment-btn:focus::placeholder {
+    color: rgba(103, 196, 98, 0.30000001192092896);
   }
 
   .xl\:pointer-events-none {
@@ -43709,6 +44125,14 @@ body {
     color: #8F98A8;
   }
 
+  .xl\:text-green-naira {
+    color: #74DF70;
+  }
+
+  .xl\:text-payment-btn {
+    color: rgba(103, 196, 98, 0.30000001192092896);
+  }
+
   .xl\:hover\:text-transparent:hover {
     color: transparent;
   }
@@ -44149,6 +44573,14 @@ body {
     color: #8F98A8;
   }
 
+  .xl\:hover\:text-green-naira:hover {
+    color: #74DF70;
+  }
+
+  .xl\:hover\:text-payment-btn:hover {
+    color: rgba(103, 196, 98, 0.30000001192092896);
+  }
+
   .xl\:focus\:text-transparent:focus {
     color: transparent;
   }
@@ -44587,6 +45019,14 @@ body {
 
   .xl\:focus\:text-chevron-blue:focus {
     color: #8F98A8;
+  }
+
+  .xl\:focus\:text-green-naira:focus {
+    color: #74DF70;
+  }
+
+  .xl\:focus\:text-payment-btn:focus {
+    color: rgba(103, 196, 98, 0.30000001192092896);
   }
 
   .xl\:text-xs {

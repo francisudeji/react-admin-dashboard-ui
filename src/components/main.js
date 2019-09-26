@@ -10,7 +10,7 @@ function Main({ children, name, isOpen, setIsOpen }) {
         <header className='flex flex-col lg:flex-row lg:justify-between lg:items-center'>
           <div className='flex items-center'>
             <button
-              className='text-darker-blue border border-darker-blue p-2 rounded mr-4 hover:text-white hover:bg-darker-blue focus:text-white focus:bg-darker-blue lg:hidden'
+              className='text-darker-blue border border-darker-blue p-2 rounded mr-4 hover:text-white hover:bg-darker-blue focus:outline-none focus:text-white focus:bg-darker-blue lg:hidden'
               onClick={() => setIsOpen(!isOpen)}
             >
               <svg

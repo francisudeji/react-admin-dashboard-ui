@@ -1,5 +1,6 @@
 import React from 'react'
 import Layout from '../components/layout'
+import { FaBook } from 'react-icons/fa'
 
 function Balances() {
   return (
@@ -79,7 +80,10 @@ function Balances() {
           </li>
           <li className='flex justify-between items-center py-5 px-3 border-b-2 border-gray-200 lg:px-6'>
             <div className='flex-1'>
-              <span className='lg:text-lg font-bold text-list-blue'>Naira</span>
+              <span className='lg:text-lg font-bold text-list-blue flex items-center'>
+                <FaBook className='hidden h-8 w-8 text-green-naira mr-3 sm:block' />
+                Naira
+              </span>
             </div>
             <div className='w-2/3 lg:w-1/2 flex justify-between items-center text-dark-blue-number font-semibold'>
               <div className='lg:text-lg w-1/2 text-right lg:mr-20'>

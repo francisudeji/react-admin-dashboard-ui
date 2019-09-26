@@ -18,7 +18,9 @@ module.exports = {
         'list-blue': '#445470',
         'list-gray': '#F9F9FA',
         'small-number': '#939BAA',
-        'chevron-blue': '#8F98A8'
+        'chevron-blue': '#8F98A8',
+        'green-naira': '#74DF70',
+        'payment-btn': 'rgba(103, 196, 98, 0.30000001192092896)'
       },
       spacing: {
         '17rem': '17rem',
